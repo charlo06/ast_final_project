@@ -5,7 +5,8 @@
   "scripts": {
     "start": "./bin/start",
     "compile": "./bin/compile",
-    "test": "./bin/test tests/*"
+    "populateDB": "./bin/populateDB",
+    "test": "./bin/test test/*"
   },
   "author": "cesar berezowski",
   "license": "ISC",
